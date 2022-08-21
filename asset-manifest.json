@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Github-landing-page-clone/static/css/main.96d107eb.css",
+    "main.js": "/Github-landing-page-clone/static/js/main.f1484e36.js",
+    "index.html": "/Github-landing-page-clone/index.html",
+    "main.96d107eb.css.map": "/Github-landing-page-clone/static/css/main.96d107eb.css.map",
+    "main.f1484e36.js.map": "/Github-landing-page-clone/static/js/main.f1484e36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96d107eb.css",
+    "static/js/main.f1484e36.js"
+  ]
+}
